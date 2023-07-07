@@ -2,7 +2,7 @@
 
 ## ②mermaidで記述できるダイアグラムの記述例とコード
 
-#フローチャート
+# フローチャート
 
 ```
 graph TD;
@@ -19,7 +19,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
-#シーケンス図
+# シーケンス図
 
 ```
 sequenceDiagram
@@ -49,7 +49,7 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-#ガントダイアグラム
+# ガントダイアグラム
 
 ```
 gantt
@@ -77,7 +77,7 @@ Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 ```
 
-#クラス図
+# クラス図
 
 ```
 classDiagram
