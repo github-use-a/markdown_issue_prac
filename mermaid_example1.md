@@ -45,7 +45,7 @@ flowchart TD
 
 3. インストールすると使えるようになります。
 
-以下のサイトを引用致しました。
+以下のサイトを引用致しました。<br>
 https://usefuledge.com/vscodemermaidsupport.html
 
 
