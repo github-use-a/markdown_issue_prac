@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="-O_0z88nFIbGi3j7XrE8" name="ページ1">
-        <mxGraphModel dx="1140" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="65" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -106,6 +106,9 @@
                 </mxCell>
                 <mxCell id="30" value="・ブラウザよりログインして利用する&lt;br&gt;・ブラウザより企業情報を登録・保守を行い&lt;br&gt;　データベースを管理する" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="489" y="376" width="260" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="u　" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry y="270" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
